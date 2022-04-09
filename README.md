@@ -2,4 +2,7 @@
 
 Learning Vanilla-Redux and React-Redux
 
-### npm install redux
+---
+npm install redux
+npm install react-redux
+npm install react-router-dom
